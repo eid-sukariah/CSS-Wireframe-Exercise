@@ -1,0 +1,56 @@
+nav{
+    position: relative;
+    left: 50%;
+    bottom: 60px 
+}
+nav ul li  {
+    display: inline;
+    text-decoration: none;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: x-large;
+    padding: 20px;
+    color: white;
+}
+
+header{
+    background-color: rgb(92, 89, 86);
+}
+header img{
+    padding: 20px;
+}
+.big{
+    position: relative;
+    left: 500px;
+    
+}
+main div {
+margin-left: 28%;
+}
+
+footer{
+    background-color: rgb(92, 92, 83);
+    height: 100px;
+}
+footer p{
+    position: relative;
+    top: 40px;
+    left: 900px;
+}
+
+
+.lastimg{
+    display: inline;  
+}
+
+div p, form{
+    display: inline-block;
+    position: relative;
+    bottom: 70px;
+    left: 50px;
+}
+div p{
+    width: 200px;
+    height: 100px;
+}
